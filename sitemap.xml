@@ -2,14 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blackbear10000.github.io/tags/ai/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blackbear10000.github.io/tags/big-data/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blackbear10000.github.io/</loc>
-    <lastmod>2024-10-26T11:10:00+08:00</lastmod>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blackbear10000.github.io/tags/blockchain/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blackbear10000.github.io/posts/exploring-the-new-frontiers-of-technology/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blackbear10000.github.io/tags/iot/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blackbear10000.github.io/posts/</loc>
-    <lastmod>2024-10-26T11:10:00+08:00</lastmod>
-  </url><url>
-    <loc>https://blackbear10000.github.io/categories/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blackbear10000.github.io/tags/</loc>
+    <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blackbear10000.github.io/archives/</loc>
+  </url><url>
+    <loc>https://blackbear10000.github.io/search/</loc>
   </url>
 </urlset>
